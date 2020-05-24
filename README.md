@@ -105,5 +105,3 @@ npm run dev
 * Received - 0x8dbcd41fed3473d377901891d964ade32c64755d7764450e58ca24d508319b1e
 * Purchased - 0xd609c47455d202a919566ab608f27a1c1bbdda56f4c9deb8ac4460953f39fc08
 
-### License
-[MIT](LICENSE)
