@@ -13,10 +13,10 @@
   "keywords": [],
   "license": "MIT",
   "devDependencies": {
-    "lite-server": "2.4.0",
+    "lite-server": "2.6.1",
     "web3": "^0.20.0",
     "openzeppelin-solidity": "2.1.2",
-    "truffle": "^5.0.1",
+    "truffle": "^5.7.9",
     "truffle-hdwallet-provider": "1.0.2",
     "web3-provider-engine": "^14.1.0"
   }
